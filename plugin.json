@@ -1,0 +1,12 @@
+{
+    "ID": "yts",
+    "ActionKeyword": "yts",
+    "Name": "YTS Python",
+    "Description": "YTS Python plugin",
+    "Author": "Morty",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/mortyobnoxious",
+    "IcoPath": "Images\\film.png",
+    "ExecuteFileName": "main.py"
+}
